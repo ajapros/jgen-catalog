@@ -1,0 +1,5 @@
+{
+  "schema": "jgen.catalog/1",
+  "description": "The official JGen blueprint catalog. Blueprints listed here can be used by name: jgen -g <name>.",
+  "blueprints": {}
+}
